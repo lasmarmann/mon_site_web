@@ -1,5 +1,6 @@
 tmp/*.txt
 tmp/*
+*.txt
 *.pdf
 *.doc
 *.ppt
